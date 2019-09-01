@@ -1,0 +1,9 @@
+#e404 {
+    margin-top: 3em;
+}
+
+@media (max-width: 900px) {
+    #e404 {
+        font-size: 8vh;
+    }
+}
