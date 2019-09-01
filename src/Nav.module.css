@@ -1,0 +1,33 @@
+#menu {
+    list-style-type: none;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    padding-left: 15vw;
+}
+
+#menu li a {
+    font-size: 2vw;
+}
+
+#menu li a:hover {
+    border-bottom: .2vw solid rgb(255, 61, 142);
+}
+
+
+@media (max-width: 900px) {
+    #menu {
+        flex-direction: column;
+        padding-left: 0;
+    }
+
+    #menu li a {
+        font-size: 7vw;
+        text-align: center;
+        display: block;
+    }
+
+    #menu li a:hover {
+        border-bottom: none;
+    }
+}

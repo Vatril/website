@@ -1,0 +1,22 @@
+#contact {
+    display: grid;
+    grid-template-columns: auto auto;
+}
+
+#contact li {
+    color: rgb(255, 61, 142);
+    font-size: 4vw;
+    text-align: center;
+    margin-top: 5vw;
+}
+
+#content {
+    width: 50%;
+}
+
+@media (max-width: 900px) {
+    #contact li {
+        font-size: 10vw;
+        margin-top: 20vw;
+    }
+}

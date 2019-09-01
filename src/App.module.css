@@ -1,0 +1,30 @@
+#header {
+    color: rgb(255, 61, 142);
+    margin-top: 2vw;
+    padding-bottom: 0;
+    margin-left: 1vw;
+    margin-right: 1vw;
+}
+
+#text {
+    flex: 1;
+}
+
+#content {
+    width: 50%;
+}
+
+#profile_pic {
+    width: 50%;
+}
+
+@media (max-width: 900px) {
+
+    #content {
+        width: 100%;
+    }
+
+    #profile_pic {
+        width: 100%;
+    }
+}

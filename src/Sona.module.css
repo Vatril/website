@@ -1,0 +1,38 @@
+#content {
+    width: 100%;
+}
+
+#profile_pic {
+    display: none;
+}
+
+#sonalist {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+}
+
+.image {
+    width: 33%;
+}
+
+.image_undertitle {
+    text-align: center;
+}
+
+.sonaimage {
+    width: 90%;
+}
+
+@media (max-width: 800px) {
+    .image {
+        width: 90%;
+        padding: 5%;
+    }
+
+    .sonaimage {
+        width: 100%;
+    }
+}
