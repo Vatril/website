@@ -5,7 +5,7 @@ export default class Home extends Component {
         return (
             <>
                 <p> Hello! </p>
-                <p> My Name is Nikolai, I am 23 and a Software Developer.
+                <p> My Name is Nikolai, I am 24 and a Software Developer.
                   This website mainly exists to provide another point of contact and giving my testing server another
             purpose. </p>
                 <p> I am currently studying Telematics! </p>
