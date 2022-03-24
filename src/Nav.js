@@ -8,9 +8,9 @@ export default class Nav extends Component {
                 <li>
                     <a href="/">Home</a>
                 </li>
-                {window.location.href.includes("furry") && <li>
+                <li>
                     <a href="/sona">Sona</a>
-                </li>}
+                </li>
                 <li>
                     <a href="/contact">Contact</a>
                 </li>

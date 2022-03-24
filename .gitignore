@@ -25,3 +25,5 @@ yarn-error.log*
 
 public/sona_files/*
 !public/sona_files/.keep
+
+.idea/*

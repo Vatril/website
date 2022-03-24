@@ -1,10 +1,9 @@
 BEGIN:VCARD
 N:Summers;Nikolai ;Jay;;
-ADR;DOM;PARCEL;HOME:;;Zwinglistr. 5;Berlin;Berlin;10555;Germany
+ADR;DOM;PARCEL;HOME:;;Dettelbacher Weg 8;Berlin;Berlin;13189;Germany
 EMAIL;INTERNET:nikolaisummers@gmail.com
 EMAIL;INTERNET:themrnjs@gmail.com
-EMAIL;INTERNET:nisu3228@th-wildau.de
+EMAIL;INTERNET:nikolai.summers@pandata.de
 TEL;CELL:4915779603374
-TEL;HOME:049303929255
-TITLE:Developer
+TITLE:Data Engineer
 END:VCARD

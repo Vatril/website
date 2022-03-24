@@ -5,7 +5,7 @@ import styles from "./Contact.module.css"
 export default class Contact extends Component {
     render() {
         return (
-            <ul class="list" id={styles.contact}>
+            <ul className="list" id={styles.contact}>
                 <li>
                     <a href="https://t.me/Vatril" target="_blank" rel="noopener noreferrer">Telegram</a>
                 </li>

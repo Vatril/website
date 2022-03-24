@@ -9,8 +9,8 @@ export default class Imprint extends Component {
                 <br />
                 <li>Address:
                     <ul className="list">
-                        <li>Zwinglistr. 5</li>
-                        <li>10555 Berlin</li>
+                        <li>Dettelbacher Weg 8</li>
+                        <li>13189 Berlin</li>
                         <li>Germany</li>
                     </ul>
                 </li>
@@ -19,7 +19,7 @@ export default class Imprint extends Component {
                     <li>Email: nikolaisummers@gmail.com</li>
                 </a>
                 <br />
-                <li>Telephone: 4915779603374</li>
+                <li>Telephone: +4915779603374</li>
             </ul>
         )
     }
