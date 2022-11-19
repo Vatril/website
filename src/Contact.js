@@ -22,6 +22,12 @@ export default class Contact extends Component {
                     <a href="https://www.reddit.com/user/Vatril" target="_blank" rel="noopener noreferrer">Reddit</a>
                 </li>
                 <li>
+                    <a href="#" target="_blank" rel="noopener noreferrer" onClick={() => alert("Vatril#6274")}>Discord</a>
+                </li>
+                <li>
+                    <a rel="me" href="https://meow.social/@vatril">Mastodon</a>
+                </li>
+                <li>
                     <Link to="/files/nikolaijaysummers.vcf" target="_blank" download>VCard</Link>
                 </li>
             </ul>
