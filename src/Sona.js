@@ -25,7 +25,7 @@ export default class Sona extends Component {
                 <div id={styles.sonalist}>
                     {this.state.images.map(image => (
                         <div className={styles.image}>
-                            <a href={image.artist_link} target="_blank" rel="noopener noreferrer" >
+                            <a href={"#"} >
                                 <img className={styles.sonaimage} src={`/sona_files/${image.image.file}`} alt={image.name} />
                                 <h3>{`${image.name} by ${image.artist}`}</h3>
                             </a>
